@@ -1,0 +1,17 @@
+{
+  "name": "zomato",
+  "version": "1.0.0",
+  "description": "JavaScript Vanilla Project - With Zomato API, search engine for restaurants, cafés, and bars",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JavaScript Vanilla - With Zomato API, search engine for restaurants"
+  ],
+  "author": "FarahMint",
+  "license": "MIT",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
